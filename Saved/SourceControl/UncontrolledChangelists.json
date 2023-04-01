@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Eui Won Kim/Documents/Unreal Projects/Breadrun/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Eui Won Kim/Documents/Unreal Projects/Breadrun/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"C:/Users/Eui Won Kim/Documents/Unreal Projects/Breadrun/Content/ThirdPerson/Blueprints/BP_CameraManager.uasset",
+				"C:/Users/Eui Won Kim/Documents/Unreal Projects/Breadrun/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+			]
+		}
+	]
+}
